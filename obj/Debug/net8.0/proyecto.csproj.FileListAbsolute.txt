@@ -1,0 +1,15 @@
+/home/ronito/Documents/proyecto/bin/Debug/net8.0/proyecto
+/home/ronito/Documents/proyecto/bin/Debug/net8.0/proyecto.deps.json
+/home/ronito/Documents/proyecto/bin/Debug/net8.0/proyecto.runtimeconfig.json
+/home/ronito/Documents/proyecto/bin/Debug/net8.0/proyecto.dll
+/home/ronito/Documents/proyecto/bin/Debug/net8.0/proyecto.pdb
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.AssemblyInfoInputs.cache
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.AssemblyInfo.cs
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.csproj.CoreCompileInputs.cache
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.sourcelink.json
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.dll
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/refint/proyecto.dll
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.pdb
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/proyecto.genruntimeconfig.cache
+/home/ronito/Documents/proyecto/obj/Debug/net8.0/ref/proyecto.dll
